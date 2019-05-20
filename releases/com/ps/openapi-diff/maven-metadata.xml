@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.ps</groupId>
+  <artifactId>openapi-diff</artifactId>
+  <versioning>
+    <release>2.0.0-PSFORK</release>
+    <versions>
+      <version>2.0.0-PSFORK</version>
+    </versions>
+    <lastUpdated>20190520025442</lastUpdated>
+  </versioning>
+</metadata>
